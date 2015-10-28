@@ -1,6 +1,8 @@
-Enter file contents hererm(list = ls(all.name=TRUE))
-seabs(-1)
-twd("//emscvd02.vdsi.ent.verizon.com/UPM/HOME/v693012/Documents")
+Enter file contents here
+
+rm(list = ls(all.name=TRUE))
+
+setwd("../Documents")
 
 # Variable declaration 
 # only . and _ and no digits in starting of vriable
@@ -61,9 +63,3 @@ data <- 	data.frame(
   name = c('ram','sham','sita','lak','rav','one')
 )
 data[1,1]
-
-
-
-if(is.vector(vector)){
-  cat("Vector is an Integer and class is",class(vector))
-}
