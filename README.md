@@ -1,6 +1,6 @@
-# R-Samples
+# R-Programming-101
 
-This is a Basic R-101 training session with 4 levels of training module.
+This is a Basic training for R-programming. It is a 4 module training program.
 1. Data structures
 2. Vector operations and loops
 3. Reading data from excel and data wrangling using dplyr
